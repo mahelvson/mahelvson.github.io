@@ -1,7 +1,7 @@
 ---
 title: "Orientações"
-collection: advising
 permalink: /advising/
+author_profile: true
 date: 2026-06-01
 ---
 

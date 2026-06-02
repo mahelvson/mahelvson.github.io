@@ -1,6 +1,7 @@
 ---
 title: "Ensino"
-permalink: /teaching/
+permalink: /education/
+author_profile: true
 date: 2026-06-01
 ---
 
