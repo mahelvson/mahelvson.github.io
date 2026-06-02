@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Mahelvson B. Chaves"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Atua em hidráulica e inteligência computacional"
   location         : "Palmeira dos Índios, Brazil"
-  employer         : "Instituto Federal de Educação, Ciência e Tecnologia de Alagoas (IFAL)"
+  employer         : "Instituto Federal de Alagoas"
   uri              : # URL
   email            : "mahelvson.chaves@ifal.edu.br" 
 
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
