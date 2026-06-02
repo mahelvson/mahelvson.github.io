@@ -5,7 +5,7 @@ author_profile: true
 date: 2026-06-01
 ---
 
-# Aqui você encontrará material didático e outras informações sobre os cursos que leciono
+Aqui você encontrará material didático e outras informações sobre os cursos que leciono. 
 O material está hospedado dentro do Google Classroom. Para disciplinas oficiais do IFAL, o aceeso é permitido apenas com e-mail institucional.
 
 ## Fenômenos de Transporte
