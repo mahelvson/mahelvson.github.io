@@ -1,6 +1,5 @@
 ---
 title: "Ensino"
-collection: teaching
 permalink: /teaching/
 date: 2026-06-01
 ---
