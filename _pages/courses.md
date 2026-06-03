@@ -8,6 +8,9 @@ date: 2026-06-01
 Aqui você encontrará material didático e outras informações sobre os cursos que leciono. 
 O material está hospedado dentro do Google Classroom. Para disciplinas oficiais do IFAL, o aceeso é permitido apenas com e-mail institucional.
 
+## Engenharia Ambiental
+[Link Classroom](https://classroom.google.com/c/Nzk4MDk3MDQzMjEw?cjc=z3trun6i)
+
 ## Fenômenos de Transporte
 Link Classroom
 
@@ -15,13 +18,13 @@ Link Classroom
 Link Classroom
 
 ## Hidrologia
-Link Classroom
+[Link Classroom](https://classroom.google.com/c/Nzk4MDk3MDMzODk3?cjc=qg2qnqac)
 
 ## Sistemas de Esgotamento Sanitário
-Link Classroom
+[Link Classroom](https://classroom.google.com/c/Nzk4MDk3MTc1MTU0?cjc=nybmfnsn)
 
 ## Sistemas de Drenagem Urbana
-Link Classroom
+[Link Classroom](https://classroom.google.com/c/Nzk4MDk3MTMzMzk1?cjc=3g7x2vjo)
 
 ## Sistemas de Abastecimento de Água
-Link Classroom
+[Link Classroom](https://classroom.google.com/c/Nzk4MDk3MDI2NzQy?cjc=v6mu36ue)
