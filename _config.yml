@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "pt-BR"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Prof. Mahelvson B. Chaves" # Update this with the title of your site
+title                    : "MBC" # Update this with the title of your site
 title_separator          : "-"
 name                     : &name "Mahelvson B. Chaves"
 description              : &description "Portfólio e blog acadêmico de Mahelvson B. Chaves"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -270,7 +270,7 @@ defaults:
       type: publications
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: true
       comments: true
   # _portfolio
@@ -279,7 +279,7 @@ defaults:
       type: portfolio
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: true
       comment: true
   # _talks
@@ -288,7 +288,7 @@ defaults:
       type: talks
     values:
       layout: talk
-      author_profile: true
+      author_profile: false
       share: true
 
 
