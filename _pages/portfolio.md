@@ -66,14 +66,3 @@ Também participo da orientação de estudantes de graduação e do desenvolvime
 
 ---
 
-# Áreas de Atuação
-
-- Hidroinformática;
-- Inteligência Artificial;
-- Aprendizado de Máquina;
-- Recursos Hídricos;
-- Sistemas de Abastecimento de Água;
-- Gestão de Perdas Hídricas;
-- Hidrologia Urbana;
-- Otimização Multiobjetivo;
-- Engenharia Ambiental.
