@@ -9,56 +9,61 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Biografia
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Sou Professor Adjunto de Hidráulica no **Instituto Federal de Alagoas (IFAL)** e doutorando em **Ciência da Computação** na **Universidade Federal de Pernambuco (UFPE)**. Minha pesquisa concentra-se em hidroinformática, inteligência artificial e otimização aplicadas aos recursos hídricos e ao saneamento, com ênfase em sistemas de abastecimento de água, gestão de perdas hídricas e hidrologia urbana.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+---
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Formação Acadêmica
+
+**Doutorado em Ciência da Computação** *(2021–Atual)*  
+Universidade Federal de Pernambuco (UFPE)
+
+**Bacharelado em Ciência da Computação** *(2023–Atual)*  
+Universidade Federal do Agreste de Pernambuco (UFAPE)
+
+**Mestrado em Recursos Hídricos e Saneamento** *(2013–2015)*  
+Universidade Federal de Alagoas (UFAL)
+
+**Graduação em Engenharia Ambiental e Sanitária** *(2008–2013)*  
+Universidade Federal de Alagoas (UFAL)
+
+---
+
+## Atuação Acadêmica
+
+**Professor Adjunto** *(2019–Atual)*  
+Instituto Federal de Alagoas (IFAL)
+
+**Professor Assistente** *(2017–2019)*  
+Instituto Federal de Alagoas (IFAL)
+
+---
+
+## Áreas de Interesse
+
+- Hidroinformática
+- Inteligência Artificial e Aprendizado de Máquina
+- Sistemas de Abastecimento de Água
+- Gestão de Perdas Hídricas
+- Otimização Multiobjetivo
+- Hidrologia Urbana
+
+---
+
+## Ensino
+
+- Hidráulica
+- Sistemas de Abastecimento de Água
+- Sistemas de Drenagem Urbana
+- Engenharia Ambiental
+
+---
+
+## Publicações
+
+Minha produção científica concentra-se nas áreas de hidroinformática, recursos hídricos, inteligência artificial e sistemas de abastecimento de água.
+
+A lista completa de publicações está disponível no **Google Scholar**, **ORCID** e **Currículo Lattes**.
