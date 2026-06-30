@@ -19,7 +19,7 @@ main:
     url: /advising/
     
   - title: "Portfólio"
-    url: /portfolio/
+    url: /port/
         
   - title: "Blog"
     url: /year-archive/

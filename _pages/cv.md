@@ -40,6 +40,12 @@ Instituto Federal de Alagoas (IFAL)
 **Professor Assistente** *(2017–2019)*  
 Instituto Federal de Alagoas (IFAL)
 
+**Revisor de Periódicos**
+- Neural Computing & Applications
+- Environmental Modeling and Software
+- Journal of Hydroinformatics
+- Mathematical Problems in Engineering
+
 ---
 
 ## Áreas de Interesse
@@ -55,8 +61,10 @@ Instituto Federal de Alagoas (IFAL)
 
 ## Ensino
 
+- Fenômenos de Transporte
 - Hidráulica
 - Sistemas de Abastecimento de Água
+- Sistemas de Esgotamento Sanitário
 - Sistemas de Drenagem Urbana
 - Engenharia Ambiental
 
