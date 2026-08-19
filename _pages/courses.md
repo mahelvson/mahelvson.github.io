@@ -14,7 +14,7 @@ O material está hospedado dentro do Google Classroom e as turmas não possuem n
 
 ### Fenômenos de Transporte
 <iframe
-  src="https://drive.google.com/drive/folders/12LC7aBHKQ5TW1ISbB9gxGQmTgVtfe1i2?usp=share_link#grid"
+  src="https://drive.google.com/drive/folders/12LC7aBHKQ5TW1ISbB9gxGQmTgVtfe1i2?usp=share_link"
   style="width:100%; height:600px; border:0;">
 </iframe>
 
