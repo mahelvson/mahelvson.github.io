@@ -54,7 +54,6 @@ Instituto Federal de Alagoas (IFAL)
 - Inteligência Artificial e Aprendizado de Máquina
 - Sistemas hídricos urbanos: abastecimendo de água, esgotamento sanitário e drenagem pluvial
 - Gestão de Perdas Hídricas
-- Machine learning
 - Otimização Multiobjetivo
 
 ---
