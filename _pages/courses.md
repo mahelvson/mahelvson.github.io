@@ -2,7 +2,7 @@
 title: "Ensino"
 permalink: /education/
 author_profile: true
-date: 2026-06-01
+date: 2026-11-18
 ---
 
 Aqui você encontrará material didático e outras informações sobre os cursos que leciono. 
