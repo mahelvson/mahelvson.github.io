@@ -12,23 +12,23 @@ redirect_from:
 
 ## Biografia
 
-Sou Professor Adjunto de Hidráulica no **Instituto Federal de Alagoas (IFAL)** e doutorando em **Ciência da Computação** na **Universidade Federal de Pernambuco (UFPE)**. Minha pesquisa concentra-se em hidroinformática, inteligência artificial e otimização aplicadas aos recursos hídricos e ao saneamento, com ênfase em sistemas de abastecimento de água, gestão de perdas hídricas e hidrologia urbana.
+Sou Professor Adjunto de Hidráulica no **Instituto Federal de Educação, Ciência e Tecnologia de Alagoas (IFAL)**. Possuo doutorado em **Ciência da Computação** pela **Universidade Federal de Pernambuco (UFPE)**, mestrado em **Recursos Hídricos e Saneamento** e graduação em Engenharia Ambiental e Sanitária, ambos pela **Universidade Federal de Alagoas (UFAL)**. Atuo em diferentes projetos relacionados à infraestrutura hídrica e de saneamento, além de pesquisas nos temas hidroinformática, inteligência artificial e otimização aplicadas em engenharia, especialmente em temas como perdas de água e desastres ambientais.
 
 ---
 
 ## Formação Acadêmica
 
-**Doutorado em Ciência da Computação** *(2021–Atual)*  
+**Doutorado em Ciência da Computação** *(2021–2026)*  
 Universidade Federal de Pernambuco (UFPE)
-
-**Bacharelado em Ciência da Computação** *(2023–Atual)*  
-Universidade Federal do Agreste de Pernambuco (UFAPE)
 
 **Mestrado em Recursos Hídricos e Saneamento** *(2013–2015)*  
 Universidade Federal de Alagoas (UFAL)
 
 **Graduação em Engenharia Ambiental e Sanitária** *(2008–2013)*  
 Universidade Federal de Alagoas (UFAL)
+
+**Bacharelado em Ciência da Computação** *(2023–Atual)*  
+Universidade Federal do Agreste de Pernambuco (UFAPE)
 
 ---
 
@@ -52,10 +52,10 @@ Instituto Federal de Alagoas (IFAL)
 
 - Hidroinformática
 - Inteligência Artificial e Aprendizado de Máquina
-- Sistemas de Abastecimento de Água
+- Sistemas hídricos urbanos: abastecimendo de água, esgotamento sanitário e drenagem pluvial
 - Gestão de Perdas Hídricas
+- Machine learning
 - Otimização Multiobjetivo
-- Hidrologia Urbana
 
 ---
 
@@ -67,11 +67,3 @@ Instituto Federal de Alagoas (IFAL)
 - Sistemas de Esgotamento Sanitário
 - Sistemas de Drenagem Urbana
 - Engenharia Ambiental
-
----
-
-## Publicações
-
-Minha produção científica concentra-se nas áreas de hidroinformática, recursos hídricos, inteligência artificial e sistemas de abastecimento de água.
-
-A lista completa de publicações está disponível no **Google Scholar**, **ORCID** e **Currículo Lattes**.
