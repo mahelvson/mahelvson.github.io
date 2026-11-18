@@ -43,7 +43,17 @@
       {% endif %}
       {% if author.arxiv %}
         <li><a href="{{ author.arxiv }}"><i class="ai ai-arxiv ai-fw icon-pad-right"></i>arXiv</a></li>
-      {% endif %}      
+      {% endif %}  
+      {% if author.lattes %}
+        <li>
+          <a href="{{ author.lattes }}" target="_blank" rel="noopener noreferrer">
+            <img src="{{ '/images/lattes.png' | relative_url }}"
+             alt="Currículo Lattes" style="width: 1.25em; height: 1.25em; object-fit: contain; vertical-align: middle;">
+            Currículo Lattes
+          </a>
+        </li>
+      {% endif %}
+      
       {% if author.googlescholar %}
         <li><a href="{{ author.googlescholar }}"><i class="ai ai-google-scholar ai-fw icon-pad-right"></i>Google Scholar</a></li>
       {% endif %}
